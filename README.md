@@ -12,3 +12,16 @@ Doing some tests on timeline:
 And here is another list:
 - Only one item
 
+Setting up for Docker:
+
+Just run the following command:
+
+```
+docker-compose up
+```
+
+```
+docker-compose down
+```
+
+
