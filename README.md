@@ -12,7 +12,7 @@ Doing some tests on timeline:
 And here is another list:
 - Only one item
 
-Setting up for Docker:
+## Setting up for Docker:
 
 Just run the following command:
 
@@ -24,4 +24,11 @@ docker-compose up
 docker-compose down
 ```
 
+## Redis TIL series
+
+- Redis can have replication
+- Redis persists to disk
+- Redis is cool
+- Our client keeps on crashing
+- Don't know why, is it redis or is it pubsub?
 
