@@ -29,4 +29,6 @@ docker-compose down
 - Redis can have replication
 - Redis persists to disk
 - Redis is cool
+- Our client keeps on crashing
+- Don't know why, is it redis or is it pubsub?
 
