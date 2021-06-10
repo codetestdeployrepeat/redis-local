@@ -26,3 +26,7 @@ docker-compose down
 
 ## Redis TIL series
 
+- Redis can have replication
+- Redis persists to disk
+- Redis is cool
+
