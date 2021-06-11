@@ -4,9 +4,9 @@ This is the index for docs.
 
 ## Topics
 
-- Topic 1
-- Topic 2
-- Topic 3
-- Topic 4
-- Topic 5
+- Topic 1 - resources
+- Topic 2 - Docker
+- Topic 3 - configuration
+- Topic 4 - deployment
+- Topic 5 - troubleshooting
 
