@@ -11,3 +11,8 @@ This is the index for docs.
 - Topic 5 - troubleshooting
 - Topic 6 - Q&A
 
+## Resources
+
+- Docs 1
+- Docs 2
+- Reference
