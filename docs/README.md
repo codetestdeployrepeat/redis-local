@@ -16,3 +16,5 @@ This is the index for docs.
 - Docs 1
 - Docs 2
 - Reference
+- Coding Garden
+
