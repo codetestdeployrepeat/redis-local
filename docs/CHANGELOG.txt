@@ -1,0 +1,11 @@
+# Changelog.txt
+
+Yes it is still a thing.
+
+2021-07-01: First entry
+- Nothing, just a dummy entry.
+- Another dummy entry.
+- Mark a new head commit - 2:51PM
+
+
+
