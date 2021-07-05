@@ -5,6 +5,7 @@ Yes it is still a thing.
 2021-07-05
 - Monday blues...
 - Testing auto import by branch name on staging.
+- Testing create PR by url
 
 2021-07-01: First entry
 - Nothing, just a dummy entry.
