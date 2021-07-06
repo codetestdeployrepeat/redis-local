@@ -6,6 +6,7 @@ Yes it is still a thing.
 - Rainy Tuesday!
 - Used mongo kung-fu to handle high concurrency select/update scenarios
 - Testing this thing on pull requests tab
+- This line should not be merged
 
 2021-07-05
 - Monday blues...
