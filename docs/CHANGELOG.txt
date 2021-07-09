@@ -2,6 +2,9 @@
 
 Yes it is still a thing.
 
+2021-07-09
+- Friday dump!
+
 2021-07-06
 - Rainy Tuesday!
 - Used mongo kung-fu to handle high concurrency select/update scenarios
