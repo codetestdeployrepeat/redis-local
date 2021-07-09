@@ -6,6 +6,7 @@ Yes it is still a thing.
 - Friday dump!
 - Testing branch committedDate
 - Turns out it is missing on event but it has timestamp
+- Let's implement it!
 
 2021-07-06
 - Rainy Tuesday!
