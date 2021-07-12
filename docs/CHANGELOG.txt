@@ -7,6 +7,7 @@ Yes it is still a thing.
 - Still not sure why dates are lost.
 - Third entry
 - Testing on tracking updates
+- Okay fine I'll do it myself...
 
 2021-07-10
 - Saturday blues...
