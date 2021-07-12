@@ -2,6 +2,10 @@
 
 Yes it is still a thing.
 
+2021-07-12
+- Monday PSE recovery sort of!
+- Still not sure why dates are lost.
+
 2021-07-10
 - Saturday blues...
 - Testing vanishing reviewers from pr
