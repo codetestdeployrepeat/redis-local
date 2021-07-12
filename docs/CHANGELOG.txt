@@ -6,6 +6,7 @@ Yes it is still a thing.
 - Monday PSE recovery sort of!
 - Still not sure why dates are lost.
 - Third entry
+- Testing on tracking updates
 
 2021-07-10
 - Saturday blues...
