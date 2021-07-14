@@ -2,6 +2,9 @@
 
 Yes it is still a thing.
 
+2021-07-14
+- CLI potential ODR?
+
 2021-07-12
 - Monday PSE recovery sort of!
 - Still not sure why dates are lost.
