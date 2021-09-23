@@ -2,6 +2,9 @@
 
 Yes it is still a thing.
 
+2021-09-23
+- Just finished migrating to jx3
+
 2021-07-14
 - CLI potential ODR?
 
