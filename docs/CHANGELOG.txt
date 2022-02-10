@@ -2,6 +2,9 @@
 
 Yes it is still a thing.
 
+2022-02-10
+- Happy new year!
+
 2021-10-26
 - It's been a long time
 - That didn't work, it says branch now found!
